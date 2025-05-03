@@ -48,6 +48,7 @@ li{
 
 main{
     width: 600px
+    
 }
 
 main{
@@ -57,4 +58,17 @@ main{
 
 p{
     margin-bottom: 55px
+}
+
+.dark{
+    background-color: #333;
+    color: #fff;
+}
+
+.subtitle{
+   color:#006EB6
+}
+
+.dark .subtitle{
+    color: #48A9E6;
 }
